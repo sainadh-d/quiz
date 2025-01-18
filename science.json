@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the capital city of France, a country located in Western Europe and known for its rich history, culture, and iconic landmarks?",
+    "choices": [
+      "London, the capital of the United Kingdom",
+      "Berlin, the capital of Germany",
+      "Paris, the capital and most populous city of France",
+      "Madrid, the capital and largest city of Spain"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which planet in our solar system is often referred to as the 'Red Planet' due to its reddish appearance caused by iron oxide prevalent on its surface?",
+    "choices": [
+      "Mars, the fourth planet from the Sun and the second-smallest planet in the Solar System",
+      "Jupiter, the largest planet in the Solar System and the fifth planet from the Sun",
+      "Venus, the second planet from the Sun and often called Earth's 'twin' planet",
+      "Saturn, the sixth planet from the Sun and known for its prominent ring system"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the result of the simple mathematical operation of adding 2 and 2 together, a fundamental arithmetic concept taught in early education?",
+    "choices": [
+      "3, the natural number following 2",
+      "4, the sum of 2 and 2",
+      "5, the number between 4 and 6",
+      "6, the number that comes after 5"
+    ],
+    "correctAnswer": 1
+  }
+]
